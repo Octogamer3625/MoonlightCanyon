@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map back
+    uniqueID: 151328663
+    locked: 0
+  - name: Player
+    uniqueID: 4197106037
+    locked: 0
+  - name: Map front
+    uniqueID: 1027855321
+    locked: 0
+  - name: FX
+    uniqueID: 3796966759
+    locked: 0
+  - name: UI
+    uniqueID: 352198133
+    locked: 0
